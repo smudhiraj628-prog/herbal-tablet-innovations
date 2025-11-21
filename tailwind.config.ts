@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        herbal: {
+          DEFAULT: "hsl(var(--herbal))",
+          light: "hsl(var(--herbal-light))",
+        },
+        scientific: "hsl(var(--scientific))",
+        earth: "hsl(var(--earth))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
