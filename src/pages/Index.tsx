@@ -20,10 +20,10 @@ const Index = () => {
         <section id="title" className="min-h-screen flex flex-col justify-center items-center text-center mb-16 scroll-mt-8">
           <div className="space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-primary mb-4">
-              Herbal Excipients in Tablet Formulation
+              Herbal Excipient Tablet
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground">
-              A Comprehensive Study on Natural Polymers
+              A Comprehensive Study on Natural Polymers in Pharmaceutical Tablet Formulation
             </p>
             <div className="mt-12 space-y-2 text-lg">
               <p className="text-foreground">Pharmaceutical Research Project</p>
